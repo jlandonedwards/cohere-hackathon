@@ -1,0 +1,9 @@
+build
+dist
+*__pycache__
+*.pytest_cache*
+.python-version
+.vscode*
+.eggs
+data/API_KEY
+data/arxiv-metadata-oai-snapshot.json
